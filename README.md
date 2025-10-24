@@ -1,3 +1,3 @@
-# Introduction to AI
+# Giới thiệu ngành AI
 
 LGKAI - FIT - HCMUS
